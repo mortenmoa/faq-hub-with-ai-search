@@ -1,5 +1,6 @@
 {
-  "functions": {
+  "_comment": "Original configuration disabled temporarily",
+  "_original_functions": {
     "pages/api/copilotkit.js": {
       "maxDuration": 60
     }
